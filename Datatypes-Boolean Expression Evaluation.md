@@ -27,13 +27,7 @@ print("d:",d)
 ```
 
 ## Output
-a = (False == True)
-b = (False== 0)
-c = False + True
-d = False + 5
-print("a is",a)
-print("b is",b)
-print("c:",c)
-print("d:",d)
+![WhatsApp Image 2025-11-21 at 3 00 17 PM](https://github.com/user-attachments/assets/6d6b96cf-b0ac-4380-a8b4-c83713bd6e3b)
+
 ## Result
 Thus,the PPython program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is created successfully.
